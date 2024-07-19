@@ -1,4 +1,4 @@
-กด ctrl + alt + delete = quit game(ออกเกม)
+ctrl + alt + delete = quit game(ออกเกม)
 
 
 #Controls(ปุ่ม)
