@@ -1,3 +1,7 @@
+Code -> Download ZIP to download
+
+
+
 ctrl + alt + delete = quit game(ออกเกม)
 
 
